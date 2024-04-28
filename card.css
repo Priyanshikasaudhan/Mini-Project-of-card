@@ -7,7 +7,7 @@ body{
     font-family: 'Mochiy Pop P One', sans-serif;
     background-color: rgb(55, 116, 116);
 }
-input#open{
+input #open{
     display: none;
 }
 .card{
